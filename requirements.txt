@@ -1,0 +1,5 @@
+arxiv==1.4.2
+beautifulsoup4>=4.3.2
+pandas>=0.16.2
+requests>=2.7.0
+lxml==4.9.1
